@@ -18,7 +18,7 @@ This is a java application which runs on the command-line. It uses [exchangerate
 
 - 'Display all currencies' will fetch all the currencies available from the APi and present it on the screen.
 
-[list_1](https://github.com/SahilShaikh25/Infotrixs/assets/75927311/83efd043-aafa-4bd1-81b6-fbb29368e38e)
+![list_1](https://github.com/SahilShaikh25/Infotrixs/assets/75927311/83efd043-aafa-4bd1-81b6-fbb29368e38e)
 
 - 'Display User Currency List' presents the list of user's saved currency list. If the list is empty it will display 'List is Empty' message on the screen.
 
